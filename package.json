@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "arc sandbox"
+  },
+  "dependencies": {
+    "@architect/functions": "^8.1.6",
+    "@simplewebauthn/server": "^10.0.0"
+  },
+  "devDependencies": {
+    "@architect/architect": "^11.0.13"
+  }
+}
