@@ -17,6 +17,6 @@ accounts
   username *String
 
 @begin
-appID NCH2LLB2
+appID NCH2LLB2 # remove this line to deploy your own app to Begin
 # production: https://friend-mjg.begin.app
 # staging: https://play-fc6.begin.app
